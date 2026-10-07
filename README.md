@@ -16,8 +16,7 @@ I am an experienced **quantitative data scientist** with **seven years of indust
 - Time-series analysis for financial and algorithmic insights
 - Building AI-driven trading strategies and financial systems
 
-I am currently seeking opportunities to begin a **Ph.D. in Fall 2025**. My aim is to contribute to groundbreaking advancements in machine learning, interpretable AI, and finance by blending rigorous research with practical applications.
-
+I am currently seeking paid opportunities in Quantitative Finance, Data Science, Machine Learning/AI, and Programming, both in Australia and internationally. I am particularly interested in roles where I can apply my experience in quantitative modelling, machine learning, financial markets, and software development to challenging real-world problems.
 ---
 
 ## 📚 Projects and Research
